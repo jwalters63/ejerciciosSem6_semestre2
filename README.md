@@ -1,4 +1,5 @@
-===== Ejercicios sobre estructuras y arreglos // Semana 6 =====
+Ejercicios sobre estructuras y arreglos // Semana 6
+---
 * Arreglo estudiante
 * Arreglo productos
 * Arreglo empleado

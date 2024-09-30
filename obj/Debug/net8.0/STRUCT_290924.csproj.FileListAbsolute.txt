@@ -1,0 +1,14 @@
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\bin\Debug\net8.0\STRUCT_290924.exe
+D:\Proyectos VSC\c#\clasex\STRUCT_290924\bin\Debug\net8.0\STRUCT_290924.deps.json
+D:\Proyectos VSC\c#\clasex\STRUCT_290924\bin\Debug\net8.0\STRUCT_290924.runtimeconfig.json
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\bin\Debug\net8.0\STRUCT_290924.dll
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\bin\Debug\net8.0\STRUCT_290924.pdb
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\STRUCT_290924.GeneratedMSBuildEditorConfig.editorconfig
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\STRUCT_290924.AssemblyInfoInputs.cache
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\STRUCT_290924.AssemblyInfo.cs
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\STRUCT_290924.csproj.CoreCompileInputs.cache
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\STRUCT_290924.dll
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\refint\STRUCT_290924.dll
+d:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\STRUCT_290924.pdb
+D:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\STRUCT_290924.genruntimeconfig.cache
+D:\Proyectos VSC\c#\clasex\STRUCT_290924\obj\Debug\net8.0\ref\STRUCT_290924.dll
